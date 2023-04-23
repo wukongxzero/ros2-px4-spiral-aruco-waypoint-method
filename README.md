@@ -4,7 +4,7 @@ Here is the way to run it on your machine, thankfully ros2 has deleted the entir
 
 so here are the requirements to run the code:
 
-system: ubuntu 22.04
+system: ubuntu 20.04
 ros: ros2; foxy.
 
 install ros2 foxy along with px4 by going throught the docs.
